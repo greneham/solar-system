@@ -1,0 +1,14 @@
+svg {
+  fill: #ffffff;
+  margin: 0px 10px;
+}
+
+.hide-nav {
+  display: none;
+}
+
+@media (min-width: 1024px) {
+  .hide-nav {
+    display: flex;
+  }
+}

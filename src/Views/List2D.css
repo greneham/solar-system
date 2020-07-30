@@ -1,0 +1,9 @@
+.planet-info {
+  min-height: 145px;
+}
+
+@media (min-width: 1024px) {
+  #planet-list div:nth-child(odd) > div {
+    float: right;
+  }
+}

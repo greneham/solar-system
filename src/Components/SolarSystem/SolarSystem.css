@@ -1,0 +1,16 @@
+.planet {
+    background-image: url('/img/stars.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.planet-tooltip {
+	position: absolute;
+	font-size: 10px;
+	top: 0;
+	left: 0;
+	color: white;
+	padding: 5px;
+	cursor: pointer;
+}

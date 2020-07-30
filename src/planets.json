@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "Name": "Mercury",
+    "Desc_Short": "Mercury is the smallest and innermost planet in the Solar System.",
+    "Desc_Long": "Mercury is the smallest and innermost planet in the Solar System. Its orbit around the Sun takes 87.97 days, the shortest of all the planets in the Solar System. It is named after the Roman deity Mercury, the messenger of the gods.",
+    "Mass": "0.055 Earths",
+    "Distance_from_Sun": "57.91 million km",
+    "Orbital_period": "88 days",
+    "Length_of_day": "58d 15h 30m",
+    "Surface_area": "74.8 million km²",
+    "Radius": "2,439.7 km"
+  },
+  {
+    "id": 2,
+    "Name": "Venus",
+    "Desc_Short": "Venus is the second planet from the Sun.",
+    "Desc_Long": "It is named after the Roman goddess of love and beauty. As the second-brightest natural object in the night sky after the Moon, Venus can cast shadows and can be, on rare occasion, visible to the naked eye in broad daylight.",
+    "Mass": "0.815 Earths",
+    "Orbital_period": "225 days",
+    "Length_of_day": "116d 18h 0m",
+    "Distance_from_Sun": "108.2 million km",
+    "Surface_area": "460.2 million km²",
+    "Radius": "6,051.8 km"
+  },
+  {
+    "id": 3,
+    "Name": "Earth",
+    "Desc_Short": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+    "Desc_Long": "According to radiometric dating estimation and other evidence, Earth formed over 4.5 billion years ago.",
+    "Mass": "1 Earth",
+    "Orbital_period": "365.256 days",
+    "Length_of_day": "24h",
+    "Distance_from_Sun": "149.6 million km",
+    "Surface_area": "510072000 km2",
+    "Radius": "6,371 km"
+  },
+  {
+    "id": 4,
+    "Name": "Mars",
+    "Desc_Short": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being only larger than Mercury.",
+    "Desc_Long": "In English, Mars carries the name of the Roman god of war and is often referred to as the \"Red Planet\".",
+    "Mass": "0.107 Earths",
+    "Orbital_period": "687 days",
+    "Length_of_day": "1d 0h 37m",
+    "Distance_from_Sun": "227.9 million km",
+    "Surface_area": "144798500 km2",
+    "Radius": "3389.5 km"
+  },
+  {
+    "id": 5,
+    "Name": "Jupiter",
+    "Desc_Short": "Jupiter is the fifth planet from the Sun and the largest in the Solar System.",
+    "Desc_Long": "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass one-thousandth that of the Sun, but two-and-a-half times that of all the other planets in the Solar System combined.",
+    "Mass": "317.8 Earths",
+    "Orbital_period": "12 years",
+    "Length_of_day": "0d 9h 56m",
+    "Distance_from_Sun": "778.5 million km",
+    "Surface_area": "61.42 billion km²",
+    "Radius": "69,911 km"
+  },
+  {
+    "id": 6,
+    "Name": "Saturn",
+    "Desc_Short": "Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter.",
+    "Desc_Long": "It is a gas giant with an average radius of about nine times that of Earth. It only has one-eighth the average density of Earth; however, with its larger volume, Saturn is over 95 times more massive.",
+    "Mass": "95.159 Earths",
+    "Orbital_period": "29 years",
+    "Length_of_day": "0d 10h 42m",
+    "Distance_from_Sun": "1.434 billion km",
+    "Surface_area": "42.7 billion km²",
+    "Radius": "58,232 km"
+  },
+  {
+    "id": 7,
+    "Name": "Uranus",
+    "Desc_Short": "Uranus is the seventh planet from the Sun.",
+    "Desc_Long": "The name \"Uranus\" is a reference to the Greek god of the sky, Uranus. According to Greek mythology, Uranus was the grandfather of Zeus and father of Cronus. It has the third-largest planetary radius and fourth-largest planetary mass in the Solar System.",
+    "Mass": "14.536 Earths",
+    "Orbital_period": "84 years",
+    "Length_of_day": "0d 17h 14m",
+    "Distance_from_Sun": "2.871 billion km",
+    "Surface_area": "8.083 billion km²",
+    "Radius": "25,362 km"
+  },
+  {
+    "id": 8,
+    "Name": "Neptune",
+    "Desc_Short": "Neptune is the eighth and farthest-known planet from the Sun in the Solar System.",
+    "Desc_Long": "Neptune is the eighth and farthest-known planet from the Sun in the Solar System. In the Solar System, it is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet. Neptune is 17 times the mass of Earth, slightly more massive than its near-twin Uranus.",
+    "Mass": "17.147 Earths",
+    "Orbital_period": "165 years ",
+    "Length_of_day": "0d 16h 6m",
+    "Distance_from_Sun": "4.495 billion km",
+    "Surface_area": "7.618 billion km²",
+    "Radius": "24,622 km"
+  }
+]

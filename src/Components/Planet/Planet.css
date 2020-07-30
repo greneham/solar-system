@@ -1,0 +1,6 @@
+.planet {
+    background-image: url('/img/stars.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}

@@ -1,0 +1,15 @@
+.planet-detail-panel {
+	position: absolute;
+	top: 100%;
+	width: 100%;
+	transform: translateY(-110%);
+}
+
+
+@media (min-width: 1024px) {
+  .planet-detail-panel {
+  	width: 30%;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
